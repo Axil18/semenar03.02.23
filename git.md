@@ -41,3 +41,6 @@ Add branchB
 Add branchC
 
 Ввожу ветку С
+Add branchD
+
+добавить веткуD
