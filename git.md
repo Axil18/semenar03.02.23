@@ -38,3 +38,6 @@ Add branch A
 Add branchB
 
 Добавляю ветку В
+Add branchC
+
+Ввожу ветку С
