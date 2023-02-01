@@ -35,3 +35,6 @@ git add -
 Add branch A
 
 Добавил ветку А
+Add branchB
+
+Добавляю ветку В
